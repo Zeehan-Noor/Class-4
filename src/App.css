@@ -1,0 +1,11 @@
+.box{
+  height: 500px;
+  background-color: yellow;
+}
+
+.lightday{
+  background-color: lightgray;
+}
+.darklight{
+  background-color: darkslategrey;
+}
